@@ -94,7 +94,7 @@ Tweak `config.py`:
 
 
 
-🚀 Welcome to APEX HUB
+🚀 Curated by APEX HUB
 💡 Here you’ll find -
 
 ✅ Advanced Ethical Hacking Guides
@@ -107,7 +107,6 @@ Tweak `config.py`:
 
 📲 Join the private channel to access all Content -
 
-https://t.me/join_apex_hub
 https://t.me/join_apex_hub
 
 ⚡ Learn. Apply. Grow. Stay Ahead
